@@ -1,0 +1,12 @@
+name: WarpStats
+version: ${project.version}
+main: cz.janvrska.warpstats.WarpStats
+api-version: 1.16
+depend: [ Essentials ]
+authors: [ janvrska ]
+description: Show warp statistics
+commands:
+  wstats:
+    description: Show WarpStat menu
+    usage: /wstats
+    aliases: [warpstats]

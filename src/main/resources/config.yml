@@ -1,0 +1,8 @@
+config:
+  database:
+    type: "SQLITE"
+    host: "localhost"
+    database: "warpstats"
+    port: 3306
+    username: "root"
+    password: "sdsa"
